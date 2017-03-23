@@ -1,0 +1,12 @@
+﻿Double Agent
+By: Brandon DeHart
+
+This is an interactive story
+
+You're an agent who is brought to a secret spy agency. They think they have a double agent on their hands.
+You've been tasked to investigate what's going on and find the double-agent and expose him.
+You follow him around for the day to see what he does and try to find intel on him.
+He discovers your on to him and he sets up a trap in the headquarters. 
+
+You use your PIN and CheckIn time to verify who you are before weapons shoot and kill you.
+

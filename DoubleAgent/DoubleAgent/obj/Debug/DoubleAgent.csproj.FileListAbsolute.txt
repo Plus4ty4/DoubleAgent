@@ -1,0 +1,12 @@
+C:\Users\bdehart.BESTOPINC\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\bin\Debug\DoubleAgent.exe.config
+C:\Users\bdehart.BESTOPINC\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\bin\Debug\DoubleAgent.exe
+C:\Users\bdehart.BESTOPINC\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\bin\Debug\DoubleAgent.pdb
+C:\Users\bdehart.BESTOPINC\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\obj\Debug\DoubleAgent.csprojResolveAssemblyReference.cache
+C:\Users\bdehart.BESTOPINC\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\obj\Debug\DoubleAgent.exe
+C:\Users\bdehart.BESTOPINC\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\obj\Debug\DoubleAgent.pdb
+C:\Users\bad_6\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\bin\Debug\DoubleAgent.exe.config
+C:\Users\bad_6\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\obj\Debug\DoubleAgent.exe
+C:\Users\bad_6\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\obj\Debug\DoubleAgent.pdb
+C:\Users\bad_6\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\bin\Debug\DoubleAgent.exe
+C:\Users\bad_6\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\bin\Debug\DoubleAgent.pdb
+C:\Users\bad_6\Dropbox\Visual Studio\DoubleAgent\DoubleAgent\obj\Debug\DoubleAgent.csprojResolveAssemblyReference.cache
